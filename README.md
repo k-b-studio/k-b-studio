@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kim 👋</h1>
 
 <p align="center">
-  Public Admin student @ Chulalongkorn with a passion for data
+  Public Administration student @ Chulalongkorn with a passion for data
 </p>
 
 <p align="center">
