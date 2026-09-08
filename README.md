@@ -15,7 +15,7 @@
 
 - 🎓 Studying **Public Administration** (minor in Economics) at **Chulalongkorn University**, concurrently pursuing a **Law degree** at Ramkhamhaeng University
 - 📊 Ex-**Credit Risk Modeling Intern** @ **Krungsri (Bank of Ayudhya)** — worked on consumer & climate risk across mortgage, business banking, and automotive portfolios
-- 🚀 Founder of **Chula HCC** (Human Capital Club, Chulalongkorn University)
+- 🚀 Co-founder of **Chula HCC** (Human Capital Club, Chulalongkorn University)
 - 🌱 Interested in the intersection of **public policy, economics, and data**
 - 🌐 Check out my work at **[kbstudio.space](https://kbstudio.space)**
 
