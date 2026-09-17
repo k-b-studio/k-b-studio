@@ -36,5 +36,6 @@
 
 - 🌐 Website: [kbstudio.space](https://kbstudio.space)
 - 👤 Old GitHub: [@KBstudio18](https://github.com/KBstudio18)
+- Canva: [CEN BANK}(https://canva.link/yqm9mzaduoi1w8u)
 
 <p align="center"><i>Thanks for stopping by! ⭐</i></p>
